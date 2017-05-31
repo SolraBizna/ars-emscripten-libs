@@ -1,0 +1,4 @@
+ars-emscripten-libs.bc
+*.h
+!luaconf.h
+
